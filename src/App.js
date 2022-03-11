@@ -11,6 +11,6 @@ function App() {
       <button onClick={() => setShowClock(!showClock)}>Toggle Clock</button>
     </div>
   );
-}
+} 
 
 export default App;
